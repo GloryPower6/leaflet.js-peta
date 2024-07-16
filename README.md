@@ -31,6 +31,7 @@ mysql -u username -p db_leaflet_kec_pasarwajo < path/to/db_leaflet_kec_pasarwajo
 
 ### Penggunaan
 1. Buka browser dan akses `http://localhost/peta-pasarwajo` untuk melihat aplikasi berjalan.
+2. Login dengan username: `admin` dan password: `admin`
 
 Nasir Azis Jaelani E1E121006 
 ##
